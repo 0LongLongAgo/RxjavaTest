@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         et = (EditText) findViewById(R.id.id_et);
 //        createOperator = new CreateOperator();
 //        createOperator.testJust();
-//        createOperator.testFrom();
+        createOperator.testFrom();
 
         testNewRxJava2();
 
